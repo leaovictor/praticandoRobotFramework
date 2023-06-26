@@ -5,6 +5,7 @@ Library           SeleniumLibrary
 ${ofertas_do_dia}            //a[contains(text(),'Ofertas do Dia')]
 
 
+
 *** Keywords ***
 Abrir o navegador
     Open Browser    browser=chrome
